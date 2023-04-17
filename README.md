@@ -8,5 +8,5 @@
 Search in the current Working Directory after Images with the Extension `png` and `gif` and convert the Images to Webp.
 
 Need to install:
-`pip install argparse
-pip install Pillow`
+`pip install argparse`
+`pip install Pillow`
