@@ -10,3 +10,14 @@ Search in the current Working Directory after Images with the Extension `png` an
 Need to install:
 `pip install argparse`
 `pip install Pillow`
+
+### Scale Images
+`python scale_images --read`
+
+`python scale_images --width x` or `python scale_images --height x` 
+
+Scale Images to the Width / Height with same Aspect Ratio override old Images !!
+
+Need to install:
+`pip install argparse`
+`pip install opencv-python`
