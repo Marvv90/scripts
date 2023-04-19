@@ -3,7 +3,6 @@ import argparse
 import cv2
 import textwrap
 
-from decimal import Decimal, getcontext
 from pathlib import Path
 from argparse import ArgumentParser
 
