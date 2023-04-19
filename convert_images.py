@@ -8,7 +8,7 @@ from pathlib import Path
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description=textwrap.dedent('''\
-        Konvertiere Bilder zu Webp
+        Convert Images to Webp
     '''
     ))
 
